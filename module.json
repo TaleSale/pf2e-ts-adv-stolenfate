@@ -2,7 +2,7 @@
   "id": "pf2e-ts-adv-stolenfate",
   "title": "PF2E-TS-ADV (Украденная Судьба)",
   "description": "Дополнение для АП Украденная Судьба",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "relationships": {
     "systems": [
       {
