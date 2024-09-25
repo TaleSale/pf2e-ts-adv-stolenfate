@@ -2,7 +2,7 @@
   "id": "pf2e-ts-adv-stolenfate",
   "title": "PF2E-TS-ADV (Украденная Судьба)",
   "description": "Дополнение для АП Украденная Судьба",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "relationships": {
     "systems": [
       {
@@ -26,7 +26,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/TaleSale/pf2e-ts-adv-otari",
-  "manifest": "https://raw.githubusercontent.com/TaleSale/pf2e-ts-adv-otari/main/module.json",
-  "download": "https://github.com/TaleSale/pf2e-ts-adv-otari/archive/refs/heads/main.zip"
+  "url": "https://github.com/TaleSale/pf2e-ts-adv-stolenfate",
+  "manifest": "https://raw.githubusercontent.com/TaleSale/pf2e-ts-adv-stolenfate/main/module.json",
+  "download": "https://github.com/TaleSale/pf2e-ts-adv-stolenfate/archive/refs/heads/main.zip"
 }
